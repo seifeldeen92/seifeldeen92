@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seif</h1>
 <h3 align="center">I'm a Senior Frontend Developer based in Cairo.</h3>
 
-###A little about me
+### Seif, Can you tell more about yourself?
 
 - 🎓 GUC graduate class'14 with **B.S. in Digital Media and Technology**
 - 💻 6+ years of experience in the **Frontend & Web development** world. 
@@ -13,7 +13,7 @@
 - 💬 Talk to me about fitness, coding, football and music
 - 🎲 Fun fact: I used to own **seven** cats & I used to be a music producer
 
-###Languages & Technologies
+### Seif, What languages & technologies you working with?
 
 <p align="left">
     <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /> </a>
@@ -44,14 +44,22 @@
     </a>
 </p>
 
-### States
+### Seif, What are your states? 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=seifeldeen92&show_icons=true&locale=en" alt="seifeldeen92" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifeldeen92&show_icons=true&locale=en&layout=compact" alt="seifeldeen92" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=seifeldeen92&show_icons=true&theme=dark&hide_border=true&locale=en" alt="seifeldeen92" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifeldeen92&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="seifeldeen92" />
+   
+</p>
 
-### Seif, What are you banging your head to? 🎧
 
-[<img src="https://novatorem-lyart.vercel.app/api/spotify" alt="sman92's Spotify Now Playing" width="350" />](https://open.spotify.com/user/yf01bfbgz5pwuo5ulaljqo4wl)
+---
+
+### Seif, What are vibing to? 🎧
+
+<p align="center">
+<img src="https://novatorem-lyart.vercel.app/api/spotify" alt="sman92's Spotify Now Playing" width="600" (https://open.spotify.com/user/yf01bfbgz5pwuo5ulaljqo4wl)
+</p>
 
 <p align="center">
   <a href="mailto:s.khaled_92@hotmail.com"> 
