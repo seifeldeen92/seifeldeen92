@@ -3,9 +3,6 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Seif</h1>
-<h3 align="center">I'm a Senior Frontend Developer based in Cairo, Egypt.</h3>
-
----
 
 ### Seif, Can you tell us more about yourself?
 
