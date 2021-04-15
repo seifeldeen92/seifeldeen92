@@ -8,7 +8,7 @@
 - 💻 **Javascript** is my language. **React** is my library of choice
 - 🏢 Currently working as full-time **Lead Software Engineer** at ***DocuSign***
 - 🌱 Currently learning **Graphql** and **Postgresql**, trying to shift more to be **Full-Stack**
-- 🎧 Always listening to ***Hiphop & Rap***
+- 🎧 Mostly listening to ***Hiphop & Rap***, however i appreciate all good music
 - 💬 Talk to me about fitness, coding, football and music
 - 👑 Pronouns: [he/his](https://www.mypronouns.org/he-him)
 - 🎲 Fun fact: I used to own **seven** cats & I used to be a music producer
