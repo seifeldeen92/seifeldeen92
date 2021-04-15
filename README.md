@@ -1,21 +1,25 @@
+<p align="center">
+  <img src="./doge.png" width="350" title="doge">
+</p>
+
 <h1 align="center">Hi 👋, I'm Seif</h1>
-<h3 align="center">I'm a Senior Frontend Developer based in Cairo.</h3>
-
-### Seif, Can you tell more about yourself?
-
-- 🎓 GUC graduate class'14 with **B.S. in Digital Media and Technology**
-- 💻 6+ years of experience in the **Frontend & Web development** world. 
-    - **Javascript** is my language
-    - **React** is my library of choice
-- 🏢 Currently working as full-time **Lead Software Engineer** at ***DocuSign***
-- 🌱 Currently learning **Graphql** and **Postgresql**, trying to shift more to be **Full-Stack**
-- 🎧 Mostly listening to ***Hiphop & Rap***, however i appreciate all good music
-- 💬 Talk to me about fitness, coding, football and music
-- 🎲 Fun fact: I used to own **seven** cats & I used to be a music producer
+<h3 align="center">I'm a Senior Frontend Developer based in Cairo, Egypt.</h3>
 
 ---
 
-### Seif, What languages & technologies you working with?
+### Seif, Can you tell us more about yourself?
+
+- 🎓 GUC graduate class'14 with **B.S. in Digital Media and Technology**
+- 💻 6+ years of experience in the **Frontend & Web development** world.
+  - **Javascript** is my language
+  - **React** is my library of choice
+- 🏢 Currently working as full-time **Lead Software Engineer** at **_DocuSign_**
+- 🌱 Currently learning **Graphql** and **Postgresql**, trying to shift more to be **Full-Stack**
+- 🎧 Mostly listening to **_Hiphop & Rap_**, however i appreciate all good music
+- 💬 Talk to me about fitness, coding, football and music
+- 🎲 Fun fact: I used to own **seven** cats & I used to be a music producer
+
+### Seif, What languages & technologies do you work with?
 
 <p align="left">
     <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /> </a>
@@ -46,7 +50,7 @@
     </a>
 </p>
 
-### Seif, What are your states? 
+### Seif, What are your states?
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=seifeldeen92&show_icons=true&theme=dark&hide_border=true&locale=en" alt="seifeldeen92" />
@@ -58,9 +62,7 @@
 
 ### Seif, What are vibing to? 🎧
 
-
 [<p align="center"><img align="center" src="https://novatorem-lyart.vercel.app/api/spotify" alt="sman92's Spotify Now Playing" width="600" /></p>](https://open.spotify.com/user/yf01bfbgz5pwuo5ulaljqo4wl)
-
 
 <p align="center">
   <a href="mailto:s.khaled_92@hotmail.com"> 
