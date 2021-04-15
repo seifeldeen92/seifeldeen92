@@ -13,6 +13,8 @@
 - 💬 Talk to me about fitness, coding, football and music
 - 🎲 Fun fact: I used to own **seven** cats & I used to be a music producer
 
+---
+
 ### Seif, What languages & technologies you working with?
 
 <p align="left">
@@ -52,14 +54,13 @@
    
 </p>
 
-
 ---
 
 ### Seif, What are vibing to? 🎧
 
-<p align="center">
-<img src="https://novatorem-lyart.vercel.app/api/spotify" alt="sman92's Spotify Now Playing" width="600" (https://open.spotify.com/user/yf01bfbgz5pwuo5ulaljqo4wl)
-</p>
+
+[<p align="center"><img align="center" src="https://novatorem-lyart.vercel.app/api/spotify" alt="sman92's Spotify Now Playing" width="600" /></p>](https://open.spotify.com/user/yf01bfbgz5pwuo5ulaljqo4wl)
+
 
 <p align="center">
   <a href="mailto:s.khaled_92@hotmail.com"> 
