@@ -1,50 +1,72 @@
-### Hello visitor. My name is Seif! nice to meet you 👋
----
+<h1 align="center">Hi 👋, I'm Seif</h1>
+<h3 align="center">I'm a Senior Frontend Developer based in Cairo.</h3>
 
-### I'm a Senior Frontend Developer based in Cairo.
+###A little about me
 
 - 🎓 GUC graduate class'14 with **B.S. in Digital Media and Technology**
 - 💻 6+ years of experience in the **Frontend & Web development** world. 
-- 💻 **Javascript** is my language. **React** is my library of choice
+    - **Javascript** is my language
+    - **React** is my library of choice
 - 🏢 Currently working as full-time **Lead Software Engineer** at ***DocuSign***
 - 🌱 Currently learning **Graphql** and **Postgresql**, trying to shift more to be **Full-Stack**
 - 🎧 Mostly listening to ***Hiphop & Rap***, however i appreciate all good music
 - 💬 Talk to me about fitness, coding, football and music
-- 👑 Pronouns: [he/his](https://www.mypronouns.org/he-him)
 - 🎲 Fun fact: I used to own **seven** cats & I used to be a music producer
 
-### Languages & Technologies 
+###Languages & Technologies
 
-![Javascript](https://img.shields.io/badge/-Javascript-f0db4f?style=flat&logo=javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61dbfb?style=flat&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white)
-![Graphql](https://img.shields.io/badge/-Graphql-f4447c?style=flat&logo=graphql&logoColor=white)
-![Postgresql](https://img.shields.io/badge/-Postgresql-0064a5?style=flat&logo=Postgresql&logoColor=white)
+<p align="left">
+    <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /> </a>
+    <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
+    <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" /> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+    <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    </a>
+    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" /> </a>
+    <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>
+    <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
+    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
+    <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
+    <a href="https://webpack.js.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
+    </a>
+</p>
 
+### States
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-211F1F?style=flat&logo=github&logoColor=white)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=seifeldeen92&show_icons=true&locale=en" alt="seifeldeen92" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifeldeen92&show_icons=true&locale=en&layout=compact" alt="seifeldeen92" /></p>
 
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### Seif, What are you banging your head to? 🎧
 
-### Links
+[<img src="https://novatorem-lyart.vercel.app/api/spotify" alt="sman92's Spotify Now Playing" width="350" />](https://open.spotify.com/user/yf01bfbgz5pwuo5ulaljqo4wl)
 
 <p align="center">
   <a href="mailto:s.khaled_92@hotmail.com"> 
-    <img alt="Connect via Email" src="https://img.shields.io/badge/Outlook-0072c6?style=flat&logo=microsoft-office&logoColor=white" />
+   <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/seif-el-deen-khaled-970a44ab/"> 
-    <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/SaiVproduction/"> 
-    <img alt="Connect on Favebook" src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=Facebook&logoColor=white" />
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/sman92/"> 
-    <img alt="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/sman92%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/channel/UC81lsSO9iRMATpvQdHBXykQ/"> 
-    <img alt="Subscribe on Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=Youtube&logoColor=white" />
+    <img alt="Youtube" src="https://img.shields.io/badge/Sboi Productions%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
 </p>
