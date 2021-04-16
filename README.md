@@ -57,7 +57,7 @@
 
 ---
 
-### Seif, What are vibing to? 🎧
+### Seif, What are you vibing to? 🎧
 
 [<p align="center"><img align="center" src="https://novatorem-lyart.vercel.app/api/spotify" alt="sman92's Spotify Now Playing" width="600" /></p>](https://open.spotify.com/user/yf01bfbgz5pwuo5ulaljqo4wl)
 
