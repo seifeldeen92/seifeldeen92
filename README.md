@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="./doge.png" width="350" title="doge">
-</p>
-
-<h1 align="center">Hi 👋, I'm Seif</h1>
+<!--   <img src="https://media.giphy.com/media/4if7rnsPFclhb7oycB/giphy.gif" width="350" title="doge"> -->
+[<p align="center"><img align="center" src="https://media.giphy.com/media/I6Hqx0fTDDDVHABCyP/giphy.gif" width="350" alt="deadmau5" /></p>](https://media.giphy.com/media/I6Hqx0fTDDDVHABCyP/giphy.gif)
+<h1 align="center">Hi 👋, I'm 5eif</h1>
 
 ### Seif, Can you tell us more about yourself?
 
@@ -12,7 +10,7 @@
   - **React** is my library of choice
 - 🏢 Currently working as full-time **Lead Software Engineer** at **_DocuSign_**
 - 🌱 Currently learning **Graphql** and **Postgresql**, trying to shift more to be **Full-Stack**
-- 🎧 Mostly listening to **_Hiphop & Rap_**, however i appreciate all good music
+- 🎧 Mostly listening to **_Electronic_ & _Hiphop & Rap_**, however i appreciate all good music
 - 💬 Talk to me about fitness, coding, football and music
 - 🎲 Fun fact: I used to own **seven** cats & I used to be a music producer
 
@@ -62,8 +60,8 @@
 [<p align="center"><img align="center" src="https://novatorem-lyart.vercel.app/api/spotify" alt="sman92's Spotify Now Playing" width="600" /></p>](https://open.spotify.com/user/yf01bfbgz5pwuo5ulaljqo4wl)
 
 <p align="center">
-  <a href="mailto:s.khaled_92@hotmail.com"> 
-   <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <a href="https://dev.to/seifeldeen92"> 
+   <img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >
   </a>
   <a href="https://www.linkedin.com/in/seif-el-deen-khaled-970a44ab/"> 
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
