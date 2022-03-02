@@ -8,7 +8,7 @@
 - 💻 6+ years of experience in the **Frontend & Web development** world.
   - **Javascript** is my language
   - **React** is my library of choice
-- 🏢 Currently working as full-time **Lead Software Engineer** at **_DocuSign_**
+- 🏢 Currently working as full-time **Senior Frontend Engineer** at **_HelloFresh_**
 - 🌱 Currently learning **Graphql** and **Postgresql**, trying to shift more to be **Full-Stack**
 - 🎧 Mostly listening to **_Electronic_ & _Hiphop & Rap_**, however i appreciate all good music
 - 💬 Talk to me about fitness, coding, football and music
